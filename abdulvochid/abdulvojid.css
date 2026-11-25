@@ -151,4 +151,13 @@
     gap: 5px;
     margin: 2% 0%;
 }
-.
+.bx10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.bx10 input{
+    background-color: #0074B8
+    ;
+}
