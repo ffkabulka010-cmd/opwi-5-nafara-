@@ -433,3 +433,164 @@ a {
     border-radius: 5px;
     font-size: 20px;
 }
+
+.salom79 {
+    background-color: white;
+    padding: 30px;
+}
+
+.salom80 {
+    background: linear-gradient(to right, #00b5bd, #0075b8);
+    padding: 35px;
+    border-radius: 10px;
+}
+
+.salom81 {
+    color: white;
+    font-size: 30px;
+}
+
+.salom82 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.salom83 {
+    width: 30%;
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+}
+
+.salom84 {
+    border-radius: 20px;
+    width: 27%;
+    padding: 15px;
+    border: none;
+}
+
+.salom85 {
+    width: 29%;
+    background-color: #00c4b8;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.salom86 {
+    border-radius: 20px;
+    width: 30%;
+    padding: 15px;
+    border: none;
+}
+
+.salom87 {
+    border-radius: 30px;
+    width: 27%;
+    padding: 15px;
+    border: none;
+}
+
+.salom88 {
+    color: white;
+    font-size: 16px;
+    width: 30%;
+}
+
+.salom89 {
+    font-size: 30px;
+}
+
+.salom90 {
+    display: flex;
+    gap: 20px;
+}
+
+.salom91 {
+    width: 25%;
+    height: 400px;
+
+}
+
+.salom92 {
+
+    width: 25%;
+    height: 210px;
+
+}
+
+.salom93 {
+
+    width: 25%;
+    height: 210px;
+
+}
+
+.salom94 {
+
+    width: 25%;
+    height: 210px;
+
+}
+
+.salom95 {
+    margin-top: 100px;
+    background-color: #eff6f9;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.salom96 {
+    color: #00618f;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.salom97 {
+    font-size: 18px;
+}
+
+.salom98 {
+    color: #00618f;
+}
+
+.salom99 {
+    font-size: 25px;
+}
+
+.salom100 {
+    font-size: 25px;
+}
+
+.salom101 {
+    font-size: 16px;
+}
+
+.salom102 {
+    font-size: 16px;
+}
+
+.salom103 {
+    background-color: #dcebf1;
+    border: none;
+    font-size: 17px;
+}
+
+.salom104 {
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.salom105 {
+    font-size: 16px;
+}
+
+.salom106 {
+    font-size: 16px;
+}
