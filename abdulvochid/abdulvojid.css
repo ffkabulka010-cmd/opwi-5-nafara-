@@ -247,3 +247,41 @@
 .box7 h1{
     margin: 3% 0%;
 }
+.box8{
+    padding: 5%;
+    background-color: #F0F6F9;
+}
+.bx15{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx16{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 2% 0%;
+}
+.bx16 button{
+    width: 260px;
+    height: 54px;
+    border: none;
+    margin: 0;
+    background-color: #E3EFF5;
+}
+.bx17{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 2% 0%;
+}
+.bx18{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.bx19{
+    text-align: end;
+}
