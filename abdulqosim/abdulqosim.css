@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+.salom{
+    display: flex;
+}
+.salom1{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 50px;
+    gap: 30px;
+}
+.salom2{
+    background-color: #00578A;
+    padding: 15px 30px;
+    color: white;
+    border: none;
+}
+.salom4{
+    margin-top: 50px;
+    width: 100%;
+}
+.salom3{
+    color: white;
+    margin-top: -650px;
+    margin-left: 250px;
+    display: flex;
+}
+.salom6{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+}
+.salom7{
+    font-size: 60px;
+}
+.salom8{
+    color: white;
+    margin-top: 30px;
+    padding: 15px 40px;
+    border: none;
+    background-color: #00C6BF;
+}
+.salom12{
+    margin-top: -750px;
+    margin-left: 720px;
+}
+.salom10{
+    margin-top: 100px;
+}
