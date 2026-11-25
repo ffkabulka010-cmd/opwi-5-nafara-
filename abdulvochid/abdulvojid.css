@@ -230,3 +230,20 @@
 .bx13 h3{
     color: #0074B8;
 }
+.BOX2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0%;
+    gap: 30px;
+}
+
+.box7{
+    margin: 5%;
+}
+.box7 img{
+    width: 100%;
+}
+.box7 h1{
+    margin: 3% 0%;
+}
