@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.bx1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.bx1 button{
+    height: 46px;
+    width: 170px;
+    border: none;
+    background-color: #E3EFF5;
+    color: #00578A;
+    border: 10px;
+}
+.box1 p{
+    color: #4F4F4F;
+}
