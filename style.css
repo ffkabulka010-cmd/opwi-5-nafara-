@@ -1,10 +1,12 @@
-*{
+* {
     margin: 0;
 }
-body{
+
+body {
     font-family: sans-serif;
 }
-.name{
+
+.name {
     padding: 20px;
     display: flex;
     gap: 100px;
@@ -12,7 +14,8 @@ body{
     justify-content: center;
     background-color: black;
 }
-a{
+
+a {
     color: white;
     font-size: 20px;
 }
@@ -100,7 +103,7 @@ a{
 }
 
 .salom20 {
-    font-size:20px;
+    font-size: 20px;
 }
 
 .salom21 {
@@ -206,4 +209,227 @@ a{
     font-size: 22px;
     line-height: 21px;
     margin-top: 30px;
+}
+
+.salom40 {
+    background-color: white;
+    width: 68%;
+    margin: auto;
+    padding: 30px;
+}
+
+.salom41 {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+}
+
+.salom42 {
+    color: #00618f;
+    font-size: 22px;
+}
+
+.salom43 {
+    color: orangered;
+    font-size: 22px;
+}
+
+.salom44 {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+}
+
+.salom45 {
+    color: #00618f;
+    font-size: 22px;
+}
+
+.salom46 {
+    color: orangered;
+    font-size: 22px;
+}
+
+.salom47 {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+}
+
+.salom48 {
+    color: #00618f;
+    font-size: 22px;
+}
+
+.salom49 {
+    color: orangered;
+    font-size: 22px;
+}
+
+.salom50 {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.salom51 {
+    color: #00618f;
+    font-size: 22px;
+}
+
+.salom52 {
+    color: orangered;
+    font-size: 22px;
+}
+
+.salom53 {
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.salom54 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.salom55 {
+    color: #00618f;
+    font-size: 22px;
+    margin-top: 35px;
+}
+
+.salom56 {
+    background-color: white;
+    padding: 40px;
+}
+
+.salom57 {
+    font-size: 35px;
+}
+
+.salom58 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.salom59 {
+    padding: 10px;
+    width: 300px;
+}
+
+.salom60 {
+    height: 350px;
+    border-radius: 5px;
+}
+
+.salom61 {
+    color: #008bd1;
+    font-size: 22px;
+}
+
+.salom62 {
+    font-size: 18px;
+}
+
+.salom63 {
+    background-color: #00618f;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.salom64 {
+    width: 25%;
+    padding: 10px;
+}
+
+.salom65 {
+    height: 350px;
+    border-radius: 5px;
+}
+
+.salom66 {
+    color: #008bd1;
+    font-size: 22px;
+}
+
+.salom67 {
+    font-size: 18px;
+}
+
+.salom68 {
+    background-color: #00618f;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.salom69 {
+    width: 25%;
+    padding: 10px;
+}
+
+.salom70 {
+    height: 350px;
+    border-radius: 5px;
+}
+
+.salom71 {
+    color: #008bd1;
+    font-size: 22px;
+}
+
+.salom72 {
+    font-size: 18px;
+}
+
+.salom73 {
+    background-color: #00618f;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.salom74 {
+    width: 25%;
+    padding: 10px;
+}
+
+.salom75 {
+    height: 350px;
+    border-radius: 5px;
+}
+
+.salom76 {
+    color: #008bd1;
+    font-size: 22px;
+}
+
+.salom77 {
+    font-size: 18px;
+}
+
+.salom78 {
+    background-color: #00618f;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
 }
