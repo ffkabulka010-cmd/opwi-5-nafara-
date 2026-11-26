@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.bx1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.bx1 button{
+    height: 46px;
+    width: 170px;
+    border: none;
+    background-color: #E3EFF5;
+    color: #00578A;
+    border: 10px;
+}
+.box1 p{
+    color: #4F4F4F;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    box-shadow: 0 1px 2px;
+    width: 96%;
+    padding: 10px;
+    margin: 1% 1%;
+    border-radius: 10px;
+}
+.bx2 button{
+    height: 46px;
+    width: 170px;
+    border: none;
+    border-radius: 10px;
+    background-color:#00578A;
+    color:white;
+    border: 10px;
+}
+.bx2{
+    margin: 0% 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.bx5{
+    background-color: #F5F9FB;
+    padding: 7% 3%;
+    margin: 4%;
+    width: 95%;
+    text-align: start;
+    border-radius: 10px;
+}
+.bx4{
+    padding: 2%;
+    width: 30%;
+}
+.box33{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box3{
+    margin-top: 5%;
+}
+.bx3{
+    margin: 0% 5%;
+}
+.bx3 p{
+    margin: 3% 0%;
+}
+.box4{
+    background-color: #F0F6F9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+    padding: 5%;
+    margin: 4%;
+}
+.bx6 h2{
+    padding: 10% 0%;
+    color:blue;
+}
+.box5{
+    background-color: #0074B8;
+    margin: 5%;
+    padding: 5%;
+    color: white;
+}
+.bx7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 0%;
+}
+.bx8 select{
+    width: 25%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding: 1%;
+}
+.bx8 input{
+    width: 25%;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 1%;
+    margin: 0% 3%;
+}
+.bx8 button{
+    width: 25%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding: 1%;
+    background-color: #00C6BF;
+    color: white;
+}
+.bx9{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.bx9 input{
+    width: 25%;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 1%;
+    margin: 0% 3%;
+}
+.bx9 select{
+    width: 25%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding: 1%;
+}
+.bx9{
+    gap: 5px;
+    margin: 2% 0%;
+}
+.bx10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.box6{
+    margin: 1%;
+    padding: 5%;
+}
+.bx11{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx12{
+    background-color: #F0F6F9;
+    margin: 1%;
+    Width:250px;
+    Height:330px;
+}
+.bx12 img{
+    width: 250px;
+    height: 200px;
+}
+.bx12 p{
+    padding: 4%;
+}
+.bx12 button{
+    padding: 2%;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    background-color: #00578A;
+    color: white;
+    border: none
+}
+.BOX{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5% 0%;
+}
+.BOX p,button{
+    margin-left: 5%;
+    margin: 2% 5%;
+}
+.bx13{
+    Width:400px;
+    Height:330px;
+    gap: 300px;
+}
+.bx13 p{
+    padding: 4% 0%;
+    margin: 0;
+}
+.bx13 button{
+    margin: 0;
+    width: 280px;
+    height: 30px;
+    background-color: #00578A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.BOX1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0%;
+    gap: 30px;
+}
+.bx13 img{
+    width: 280px;
+    height: 300px;
+}
+.bx13 h3{
+    color: #0074B8;
+}
+.BOX2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0%;
+    gap: 30px;
+}
+
+.box7{
+    margin: 5%;
+}
+.box7 img{
+    width: 100%;
+}
+.box7 h1{
+    margin: 3% 0%;
+}
+.box8{
+    padding: 5%;
+    background-color: #F0F6F9;
+}
+.bx15{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx16{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 2% 0%;
+}
+.bx16 button{
+    width: 260px;
+    height: 54px;
+    border: none;
+    margin: 0;
+    background-color: #E3EFF5;
+}
+.bx17{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 2% 0%;
+}
+.bx18{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    gap: 10px;
+}
+.bx19{
+    text-align: end;
+}
+.box9{
+    margin: 1% 3%;
+    padding: 1% 0%;
+}
+.box9 p{
+    padding: 1% 0%;
+}
