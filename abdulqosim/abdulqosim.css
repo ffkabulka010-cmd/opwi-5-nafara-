@@ -50,3 +50,20 @@
 .salom10{
     margin-top: 100px;
 }
+.salom13{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background-color: #C6D9E2;
+}
+.salom13 p{
+    color:#141414;
+}
+.salom14{
+    padding: 15px 40px;
+    border: none;
+    background-color: #00578A;
+    color: white;
+}
