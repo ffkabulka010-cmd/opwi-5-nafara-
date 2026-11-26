@@ -136,3 +136,30 @@ a {
 .salom24{
     margin-top: 100px;
 }
+.salom26{
+    margin-left: 60px;
+}
+.salom27{
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.salom28{
+    margin-top: 50px;
+}
+.salom29{
+    margin-top: 30px;
+    padding: 15px 60px;
+    background-color: #00578A;
+    color: white;
+    border: none;
+}
+.salom30{
+    width: 265px;
+    padding: 20px;
+    background-color: #C6D9E2;
+}
+.salom34{
+    margin-left: 60px;
+    gap: 30px;
+    display: flex;
+}
