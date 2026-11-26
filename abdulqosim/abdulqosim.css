@@ -176,3 +176,14 @@ a {
 .salom37{
         width: 650px;
 }
+.salom38{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.salom39{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
