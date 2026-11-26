@@ -74,3 +74,40 @@
     align-items: center;
     gap: 40px;
 }
+.salom16{
+    color: white;
+    padding: 50px;
+    background-color: #0074B8;
+}
+.salom16 p{
+    margin-right: 270px;
+}
+.salom17{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.salom18{
+    display: flex;
+    gap: 30px;
+}
+.salom19{
+    margin-top: 30px;
+    padding: 20px 100px;
+}
+.salom20{
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px 100px;
+    background-color: #00C6BF;
+    color: white;
+    border: none;
+}
+.salom21{
+    display: flex;
+    gap: 30px;
+}
+.salom21 p{
+    margin-left: 100px;
+    margin-top: 40px;
+}
