@@ -174,3 +174,33 @@
     align-items: center;
     gap: 40px;
 }
+.salom40{
+
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.salom41{
+    margin-top: 50px;
+}
+.salom43{
+    padding: 20px;
+    width: 375px;
+    background-color: #F0F6F9;
+}
+.salom43 h2{
+    color: #017CC1;
+}
+.salom43 p{
+    color: grey;
+    margin-top: 30px;
+}
+.salom40{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.salom51{
+    margin-top: 100px;
+    margin-left: 60px;
+}
