@@ -163,3 +163,16 @@ a {
     gap: 30px;
     display: flex;
 }
+.salom35{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.salom36{
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.salom37{
+        width: 650px;
+}
