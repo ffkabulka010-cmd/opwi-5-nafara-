@@ -250,3 +250,14 @@ a {
 .salom61{
     margin-top: 30px;
 }
+.salom62{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.salom63{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
