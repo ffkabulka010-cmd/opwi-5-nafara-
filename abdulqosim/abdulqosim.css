@@ -51,12 +51,13 @@
     margin-top: 100px;
 }
 .salom13{
+    margin-top: -50px;
     width: 200px;
     display: flex;
     flex-direction: column;
     gap: 20px;
     padding: 20px;
-    background-color: #C6D9E2;
+    background-color:#C6D9E2;
 }
 .salom13 p{
     color:#141414;
@@ -66,4 +67,10 @@
     border: none;
     background-color: #00578A;
     color: white;
+}
+.salom15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
 }
